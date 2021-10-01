@@ -9,5 +9,6 @@
 </div>
 
 <div align="center">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=debnathSD&theme=solarized_dark" alt="Sourav Debnath's Summary">
  <img src="https://visitor-badge.laobi.icu/badge?page_id=debnathSD.debnathSD" alt="visitors">
 </div>
